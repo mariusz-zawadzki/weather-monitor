@@ -1,1 +1,1 @@
-web: java -jar ./build/libs/weather-monitor-*
+web: java $JAVA_OPTS -jar app.jar
