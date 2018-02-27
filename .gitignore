@@ -3,6 +3,7 @@
 !gradle/wrapper/gradle-wrapper.jar
 
 .env
+application-default.properties
 
 ### STS ###
 .apt_generated
